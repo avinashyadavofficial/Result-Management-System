@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 while True:
     print('-----------------------------------------------------------------------------------------------------------------------')
-    print ('PROJECT TOPIC:RESULT ANALYSIS, DEVELOPED BY: 1.ALOK KUMAR VERMA')
+    print ('PROJECT TOPIC:RESULT ANALYSIS, DEVELOPED BY:AVINASH YADAV')
     print('-----------------------------------------------------------------------------------------------------------------------')
     path=input("Enter the Full Path of the file: ")
     print('MENU:')
